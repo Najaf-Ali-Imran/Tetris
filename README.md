@@ -108,20 +108,20 @@ A classic Tetris game implemented in C++ using the SFML (Simple and Fast Multime
 ## File Structure
 /your-project-folder
 |-- .gitignore          
-|-- main.cpp            # Source code
-|-- Project10.sln       # Visual Studio Solution file
-|-- Project10.vcxproj   # Visual Studio Project file
-|-- Project10.vcxproj.filters # Visual Studio filters file (optional but common)
-|-- CppProperties.json  # VS Code/Intellisense configuration (optional but common)
-|-- /resources          # Folder containing game assets
+|-- main.cpp          
+|-- Project10.sln       
+|-- Project10.vcxproj  
+|-- Project10.vcxproj.filters 
+|-- CppProperties.json  
+|-- /resources         
 |   |-- background.png
-|   |-- block0.png      # Cyan I
-|   |-- block1.png      # Blue J
-|   |-- block2.png      # Orange L
-|   |-- block3.png      # Yellow O
-|   |-- block4.png      # Green S
-|   |-- block5.png      # Magenta T
-|   |-- block6.png      # Red Z
+|   |-- block0.png     
+|   |-- block1.png     
+|   |-- block2.png     
+|   |-- block3.png     
+|   |-- block4.png      
+|   |-- block5.png      
+|   |-- block6.png      
 |   |-- university_logo.png # Your logo texture
 |   |-- main_font.ttf
 |   |-- title_font.ttf
