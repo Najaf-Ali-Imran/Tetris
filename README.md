@@ -122,7 +122,7 @@ A classic Tetris game implemented in C++ using the SFML (Simple and Fast Multime
 |   |-- block4.png      
 |   |-- block5.png      
 |   |-- block6.png      
-|   |-- university_logo.png # Your logo texture
+|   |-- university_logo.png 
 |   |-- main_font.ttf
 |   |-- title_font.ttf
 |   |-- background_music.ogg
