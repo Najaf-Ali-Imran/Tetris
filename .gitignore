@@ -1,0 +1,31 @@
+# --- Visual Studio / C++ Build Artifacts ---
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.lib
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+# --- Build Output Folders ---
+Debug/
+Release/
+x64/
+Win32/
+Project10/  # Assuming this is a build/intermediate folder
+
+# --- IDE Specific / User Files ---
+.vs/
+.vscode/   # Often ignored, but keep if you have shared settings
+*.vcxproj.user
+*.sln.docstates
+
+# --- Runtime Data Files ---
+highscore.txt
+highscores.txt
+
+# --- Other/Unused ---
+ss.otf     # If this font file is not actually used by the project
